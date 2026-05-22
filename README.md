@@ -12,10 +12,13 @@
   <a href="https://apps.apple.com/us/app/hyponavi-mortgage-calculator/id6766087893">
     <img src="https://img.shields.io/badge/App%20Store-Download-0D96F6?style=for-the-badge&logo=app-store&logoColor=white" alt="Download on the App Store" />
   </a>
+  <a href="https://play.google.com/store/apps/details?id=com.tomas.hyponavi_mortgage_planner">
+    <img src="https://img.shields.io/badge/Google%20Play-Get%20it%20on-414141?style=for-the-badge&logo=googleplay&logoColor=white" alt="Get it on Google Play" />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Platform-iOS-blue" />
+  <img src="https://img.shields.io/badge/Platform-iOS%20%7C%20Android-blue" />
   <img src="https://img.shields.io/badge/Price-Free-success" />
   <img src="https://img.shields.io/badge/Privacy-Data%20Not%20Collected-brightgreen" />
   <img src="https://img.shields.io/badge/Offline-Yes-blueviolet" />
@@ -144,7 +147,7 @@ Colorblind-friendly Wong palette.
 
 [**App Store — HypoNavi: Mortgage Calculator**](https://apps.apple.com/us/app/hyponavi-mortgage-calculator/id6766087893)
 
-iPhone only. iOS 13+. Free.
+iPhone (iOS 13+) and Android. Free.
 
 ## FAQ
 
@@ -181,7 +184,7 @@ iPhone only. iOS 13+. Free.
 
 - Email: tom@lapnito.cz
 - More iOS apps: [Lapnito on App Store](https://apps.apple.com/us/developer/lapnito-cz-s-r-o/id1588955203)
-- More Android apps: [Lapnito on Google Play](https://play.google.com/store/apps/dev?id=8989999168776844881)
+- More Android apps: [Lapnito on Google Play](https://play.google.com/store/apps/dev?id=8923575656207320763)
 
 ## Schema.org metadata (for AI search engines)
 

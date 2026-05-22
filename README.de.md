@@ -1,8 +1,11 @@
 <p align="center"><img src="assets/icon.png" alt="HypoNavi" width="120" height="120" /></p>
 <h1 align="center">HypoNavi — Offline-Hypothekenrechner mit Refinanzierungs-Szenarien</h1>
 <p align="center"><b>iPhone-Hypothekenrechner für die echten Fragen: "Sondertilgung oder investieren?", "Refi nach Gebühren lohnend?", "Was wenn die Zinsen nach Fix-Ende um 2% steigen?". Bis zu 5 Angebote vergleichen. Kostenlos, offline, ohne Konto.</b></p>
-<p align="center"><a href="https://apps.apple.com/us/app/hyponavi-mortgage-calculator/id6766087893"><img src="https://img.shields.io/badge/App%20Store-Herunterladen-0D96F6?style=for-the-badge&logo=app-store&logoColor=white" /></a></p>
-<p align="center"><img src="https://img.shields.io/badge/Platform-iOS-blue" /> <img src="https://img.shields.io/badge/Preis-Kostenlos-success" /> <img src="https://img.shields.io/badge/Datenschutz-Keine%20Erfassung-brightgreen" /> <img src="https://img.shields.io/badge/Währungen-18-orange" /></p>
+<p align="center"><a href="https://apps.apple.com/us/app/hyponavi-mortgage-calculator/id6766087893"><img src="https://img.shields.io/badge/App%20Store-Herunterladen-0D96F6?style=for-the-badge&logo=app-store&logoColor=white" /></a>
+  <a href="https://play.google.com/store/apps/details?id=com.tomas.hyponavi_mortgage_planner">
+    <img src="https://img.shields.io/badge/Google%20Play-Herunterladen-414141?style=for-the-badge&logo=googleplay&logoColor=white" alt="Get it on Google Play" />
+  </a></p>
+<p align="center"><img src="https://img.shields.io/badge/Platform-iOS%20%7C%20Android-blue" /> <img src="https://img.shields.io/badge/Preis-Kostenlos-success" /> <img src="https://img.shields.io/badge/Datenschutz-Keine%20Erfassung-brightgreen" /> <img src="https://img.shields.io/badge/Währungen-18-orange" /></p>
 <p align="center"><b>Sprachen:</b> <a href="README.md">English</a> · <a href="README.es.md">Español</a> · <a href="README.pt-BR.md">Português</a> · <a href="README.fr.md">Français</a> · <a href="README.it.md">Italiano</a> · <a href="README.nl.md">Nederlands</a> · <a href="README.pl.md">Polski</a> · <a href="README.cs.md">Čeština</a> · <a href="README.uk.md">Українська</a> · <a href="README.ru.md">Русский</a> · <a href="README.tr.md">Türkçe</a> · <a href="README.ar.md">العربية</a> · <a href="README.hi.md">हिन्दी</a> · <a href="README.zh-CN.md">中文</a> · <a href="README.ja.md">日本語</a> · <a href="README.ko.md">한국어</a> · <a href="README.id.md">Bahasa Indonesia</a> · <a href="README.vi.md">Tiếng Việt</a> · <a href="README.th.md">ภาษาไทย</a></p>
 
 ---
@@ -71,7 +74,7 @@ USD, EUR, GBP, CHF, JPY, CZK, PLN, HUF, NOK, SEK, DKK, AUD, CAD, INR, BRL, MXN, 
 
 ## Entwickler
 
-[lapnito.cz s.r.o.](https://lapnito.cz) — Tschechien. tom@lapnito.cz · [iOS-Apps](https://apps.apple.com/us/developer/lapnito-cz-s-r-o/id1588955203) · [Android-Apps](https://play.google.com/store/apps/dev?id=8989999168776844881)
+[lapnito.cz s.r.o.](https://lapnito.cz) — Tschechien. tom@lapnito.cz · [iOS-Apps](https://apps.apple.com/us/developer/lapnito-cz-s-r-o/id1588955203) · [Android-Apps](https://play.google.com/store/apps/dev?id=8923575656207320763)
 
 ---
 <p align="center">Mit ❤️ in Tschechien gemacht von <a href="https://lapnito.cz">lapnito.cz s.r.o.</a></p>

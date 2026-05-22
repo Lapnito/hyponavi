@@ -1,8 +1,11 @@
 <p align="center"><img src="assets/icon.png" alt="HypoNavi" width="120" height="120" /></p>
 <h1 align="center">HypoNavi — Máy tính khoản vay mua nhà offline với kịch bản tái cấp vốn</h1>
 <p align="center"><b>Máy tính iPhone trả lời câu hỏi thật: "Trả thêm hay đầu tư?", "Tái cấp vốn sau phí có lợi không?", "Lãi suất tăng 2% sau giai đoạn cố định thì sao?". So sánh tối đa 5 đề nghị. Miễn phí, offline, không tài khoản.</b></p>
-<p align="center"><a href="https://apps.apple.com/us/app/hyponavi-mortgage-calculator/id6766087893"><img src="https://img.shields.io/badge/App%20Store-Tải%20xuống-0D96F6?style=for-the-badge&logo=app-store&logoColor=white" /></a></p>
-<p align="center"><img src="https://img.shields.io/badge/Platform-iOS-blue" /> <img src="https://img.shields.io/badge/Giá-Miễn%20phí-success" /> <img src="https://img.shields.io/badge/Quyền%20riêng%20tư-Không%20thu%20thập-brightgreen" /> <img src="https://img.shields.io/badge/Tiền%20tệ-18-orange" /></p>
+<p align="center"><a href="https://apps.apple.com/us/app/hyponavi-mortgage-calculator/id6766087893"><img src="https://img.shields.io/badge/App%20Store-Tải%20xuống-0D96F6?style=for-the-badge&logo=app-store&logoColor=white" /></a>
+  <a href="https://play.google.com/store/apps/details?id=com.tomas.hyponavi_mortgage_planner">
+    <img src="https://img.shields.io/badge/Google%20Play-Tải%20xuống-414141?style=for-the-badge&logo=googleplay&logoColor=white" alt="Get it on Google Play" />
+  </a></p>
+<p align="center"><img src="https://img.shields.io/badge/Platform-iOS%20%7C%20Android-blue" /> <img src="https://img.shields.io/badge/Giá-Miễn%20phí-success" /> <img src="https://img.shields.io/badge/Quyền%20riêng%20tư-Không%20thu%20thập-brightgreen" /> <img src="https://img.shields.io/badge/Tiền%20tệ-18-orange" /></p>
 <p align="center"><b>Ngôn ngữ:</b> <a href="README.md">English</a> · <a href="README.es.md">Español</a> · <a href="README.pt-BR.md">Português</a> · <a href="README.de.md">Deutsch</a> · <a href="README.fr.md">Français</a> · <a href="README.it.md">Italiano</a> · <a href="README.nl.md">Nederlands</a> · <a href="README.pl.md">Polski</a> · <a href="README.cs.md">Čeština</a> · <a href="README.uk.md">Українська</a> · <a href="README.ru.md">Русский</a> · <a href="README.tr.md">Türkçe</a> · <a href="README.ar.md">العربية</a> · <a href="README.hi.md">हिन्दी</a> · <a href="README.zh-CN.md">中文</a> · <a href="README.ja.md">日本語</a> · <a href="README.ko.md">한국어</a> · <a href="README.id.md">Bahasa Indonesia</a> · <a href="README.th.md">ภาษาไทย</a></p>
 
 ---
@@ -68,7 +71,7 @@ USD, EUR, GBP, CHF, JPY, CZK, PLN, HUF, NOK, SEK, DKK, AUD, CAD, INR, BRL, MXN, 
 
 ## Nhà phát triển
 
-[lapnito.cz s.r.o.](https://lapnito.cz) — CH Séc. tom@lapnito.cz · [iOS](https://apps.apple.com/us/developer/lapnito-cz-s-r-o/id1588955203) · [Android](https://play.google.com/store/apps/dev?id=8989999168776844881)
+[lapnito.cz s.r.o.](https://lapnito.cz) — CH Séc. tom@lapnito.cz · [iOS](https://apps.apple.com/us/developer/lapnito-cz-s-r-o/id1588955203) · [Android](https://play.google.com/store/apps/dev?id=8923575656207320763)
 
 ---
 <p align="center">Làm với ❤️ tại CH Séc — <a href="https://lapnito.cz">lapnito.cz s.r.o.</a></p>
