@@ -47,7 +47,13 @@
   <a href="README.ko.md">한국어</a> ·
   <a href="README.id.md">Bahasa Indonesia</a> ·
   <a href="README.vi.md">Tiếng Việt</a> ·
-  <a href="README.th.md">ภาษาไทย</a>
+  <a href="README.th.md">ภาษาไทย</a> ·
+  <a href="README.bn.md">বাংলা</a> ·
+  <a href="README.ur.md">اردو</a> ·
+  <a href="README.fa.md">فارسی</a> ·
+  <a href="README.ta.md">தமிழ்</a> ·
+  <a href="README.te.md">తెలుగు</a> ·
+  <a href="README.ms.md">Bahasa Melayu</a>
 </p>
 
 ---

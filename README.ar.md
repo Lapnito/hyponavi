@@ -7,7 +7,34 @@
     <img src="https://img.shields.io/badge/Google%20Play-تنزيل-414141?style=for-the-badge&logo=googleplay&logoColor=white" alt="Get it on Google Play" />
   </a></p>
 <p align="center"><img src="https://img.shields.io/badge/Platform-iOS%20%7C%20Android-blue" /> <img src="https://img.shields.io/badge/السعر-مجاني-success" /> <img src="https://img.shields.io/badge/الخصوصية-لا%20يتم%20جمع%20البيانات-brightgreen" /> <img src="https://img.shields.io/badge/العملات-18-orange" /></p>
-<p align="center"><b>اللغات:</b> <a href="README.md">English</a> · <a href="README.es.md">Español</a> · <a href="README.pt-BR.md">Português</a> · <a href="README.de.md">Deutsch</a> · <a href="README.fr.md">Français</a> · <a href="README.it.md">Italiano</a> · <a href="README.nl.md">Nederlands</a> · <a href="README.pl.md">Polski</a> · <a href="README.cs.md">Čeština</a> · <a href="README.uk.md">Українська</a> · <a href="README.ru.md">Русский</a> · <a href="README.tr.md">Türkçe</a> · <a href="README.hi.md">हिन्दी</a> · <a href="README.zh-CN.md">中文</a> · <a href="README.ja.md">日本語</a> · <a href="README.ko.md">한국어</a> · <a href="README.id.md">Bahasa Indonesia</a> · <a href="README.vi.md">Tiếng Việt</a> · <a href="README.th.md">ภาษาไทย</a></p>
+<p align="center">
+  <b>Languages:</b>
+  <a href="README.md">English</a> ·
+  <a href="README.es.md">Español</a> ·
+  <a href="README.pt-BR.md">Português</a> ·
+  <a href="README.de.md">Deutsch</a> ·
+  <a href="README.fr.md">Français</a> ·
+  <a href="README.it.md">Italiano</a> ·
+  <a href="README.nl.md">Nederlands</a> ·
+  <a href="README.pl.md">Polski</a> ·
+  <a href="README.cs.md">Čeština</a> ·
+  <a href="README.uk.md">Українська</a> ·
+  <a href="README.ru.md">Русский</a> ·
+  <a href="README.tr.md">Türkçe</a> ·
+  <a href="README.hi.md">हिन्दी</a> ·
+  <a href="README.zh-CN.md">中文</a> ·
+  <a href="README.ja.md">日本語</a> ·
+  <a href="README.ko.md">한국어</a> ·
+  <a href="README.id.md">Bahasa Indonesia</a> ·
+  <a href="README.vi.md">Tiếng Việt</a> ·
+  <a href="README.th.md">ภาษาไทย</a> ·
+  <a href="README.bn.md">বাংলা</a> ·
+  <a href="README.ur.md">اردو</a> ·
+  <a href="README.fa.md">فارسی</a> ·
+  <a href="README.ta.md">தமிழ்</a> ·
+  <a href="README.te.md">తెలుగు</a> ·
+  <a href="README.ms.md">Bahasa Melayu</a>
+</p>
 
 ---
 
