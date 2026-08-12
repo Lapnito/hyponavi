@@ -53,7 +53,15 @@
   <a href="README.ur.md">اردو</a> ·
   <a href="README.fa.md">فارسی</a> ·
   <a href="README.te.md">తెలుగు</a> ·
-  <a href="README.ms.md">Bahasa Melayu</a>
+  <a href="README.ms.md">Bahasa Melayu</a> ·
+  <a href="README.sw.md">Kiswahili</a> ·
+  <a href="README.he.md">עברית</a> ·
+  <a href="README.el.md">Ελληνικά</a> ·
+  <a href="README.sv.md">Svenska</a> ·
+  <a href="README.da.md">Dansk</a> ·
+  <a href="README.no.md">Norsk</a> ·
+  <a href="README.fi.md">Suomi</a> ·
+  <a href="README.hu.md">Magyar</a>
 </p>
 
 ---
