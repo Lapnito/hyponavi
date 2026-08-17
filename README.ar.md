@@ -41,7 +41,13 @@
   <a href="README.da.md">Dansk</a> ·
   <a href="README.no.md">Norsk</a> ·
   <a href="README.fi.md">Suomi</a> ·
-  <a href="README.hu.md">Magyar</a>
+  <a href="README.hu.md">Magyar</a> ·
+  <a href="README.ro.md">Română</a> ·
+  <a href="README.sk.md">Slovenčina</a> ·
+  <a href="README.hr.md">Hrvatski</a> ·
+  <a href="README.ca.md">Català</a> ·
+  <a href="README.af.md">Afrikaans</a> ·
+  <a href="README.bg.md">Български</a>
 </p>
 
 ---
