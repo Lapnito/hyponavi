@@ -114,7 +114,7 @@ USD, EUR, GBP, CHF, JPY, CZK, PLN, HUF, NOK, SEK, DKK, AUD, CAD, INR, BRL, MXN, 
 
 ## Vývojář
 
-[lapnito.cz s.r.o.](https://lapnito.cz) — Česká republika. tom@lapnito.cz · [iOS](https://apps.apple.com/us/developer/lapnito-cz-s-r-o/id1588955203) · [Android](https://play.google.com/store/apps/dev?id=8923575656207320763)
+[lapnito.cz s.r.o.](https://lapnito.cz) — Česká republika. tom@lapnito.cz · [iOS](https://apps.apple.com/us/developer/lapnito-cz-s-r-o/id1577358577) · [Android](https://play.google.com/store/apps/dev?id=8923575656207320763)
 
 ---
 <p align="center">Vyrobeno s ❤️ v Česku — <a href="https://lapnito.cz">lapnito.cz s.r.o.</a></p>

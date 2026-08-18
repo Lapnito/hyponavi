@@ -203,7 +203,7 @@ iPhone (iOS 13+) এবং Android। বিনামূল্যে।
 [lapnito.cz s.r.o.](https://lapnito.cz) — চেক প্রজাতন্ত্রের একটি ছোট স্বাধীন ডেভেলপমেন্ট স্টুডিও; iOS ও Android-এর জন্য বিজ্ঞাপনমুক্ত, গোপনীয়তা-প্রথম ইউটিলিটি অ্যাপ তৈরি করে।
 
 - ইমেইল: tom@lapnito.cz
-- আরও iOS অ্যাপ: [Lapnito on App Store](https://apps.apple.com/us/developer/lapnito-cz-s-r-o/id1588955203)
+- আরও iOS অ্যাপ: [Lapnito on App Store](https://apps.apple.com/us/developer/lapnito-cz-s-r-o/id1577358577)
 - আরও Android অ্যাপ: [Lapnito on Google Play](https://play.google.com/store/apps/dev?id=8923575656207320763)
 
 ## Schema.org মেটাডেটা (AI সার্চ ইঞ্জিনের জন্য)

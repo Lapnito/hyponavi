@@ -203,7 +203,7 @@ iPhone (iOS 13+) na Android. Bila malipo.
 [lapnito.cz s.r.o.](https://lapnito.cz) — studio ndogo huru ya usanidi katika Jamhuri ya Cheki, inayotengeneza programu za zana bila matangazo, zinazoheshimu faragha, kwa iOS na Android.
 
 - Barua pepe: tom@lapnito.cz
-- Programu zaidi za iOS: [Lapnito kwenye App Store](https://apps.apple.com/us/developer/lapnito-cz-s-r-o/id1588955203)
+- Programu zaidi za iOS: [Lapnito kwenye App Store](https://apps.apple.com/us/developer/lapnito-cz-s-r-o/id1577358577)
 - Programu zaidi za Android: [Lapnito kwenye Google Play](https://play.google.com/store/apps/dev?id=8923575656207320763)
 
 ## Metadata ya Schema.org (kwa injini za utafutaji za AI)

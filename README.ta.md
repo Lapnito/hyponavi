@@ -203,7 +203,7 @@ iPhone (iOS 13+) மற்றும் Android. இலவசம்.
 [lapnito.cz s.r.o.](https://lapnito.cz) — செக் குடியரசைச் சேர்ந்த சிறிய சுயேச்சை மேம்பாட்டு ஸ்டுடியோ; iOS மற்றும் Android-க்கான விளம்பரமற்ற, தனியுரிமை முதன்மையான பயன்பாட்டுச் செயலிகள்.
 
 - மின்னஞ்சல்: tom@lapnito.cz
-- மேலும் iOS செயலிகள்: [App Store-இல் Lapnito](https://apps.apple.com/us/developer/lapnito-cz-s-r-o/id1588955203)
+- மேலும் iOS செயலிகள்: [App Store-இல் Lapnito](https://apps.apple.com/us/developer/lapnito-cz-s-r-o/id1577358577)
 - மேலும் Android செயலிகள்: [Google Play-இல் Lapnito](https://play.google.com/store/apps/dev?id=8923575656207320763)
 
 ## Schema.org மேனிலைத் தரவு (AI தேடுபொறிகளுக்கு)

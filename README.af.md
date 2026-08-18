@@ -203,7 +203,7 @@ iPhone (iOS 13+) en Android. Gratis.
 [lapnito.cz s.r.o.](https://lapnito.cz) — klein onafhanklike ontwikkelingstudio in die Tsjeggiese Republiek wat advertensievrye, privaatheid-eerste hulpprogramme vir iOS en Android maak.
 
 - E-pos: tom@lapnito.cz
-- Meer iOS-toepassings: [Lapnito op die App Store](https://apps.apple.com/us/developer/lapnito-cz-s-r-o/id1588955203)
+- Meer iOS-toepassings: [Lapnito op die App Store](https://apps.apple.com/us/developer/lapnito-cz-s-r-o/id1577358577)
 - Meer Android-toepassings: [Lapnito op Google Play](https://play.google.com/store/apps/dev?id=8923575656207320763)
 
 ## Schema.org-metadata (vir KI-soekenjins)

@@ -209,7 +209,7 @@ iPhone (iOS 13+) اور Android۔ مفت۔
 [lapnito.cz s.r.o.](https://lapnito.cz) — چیک ری پبلک کا ایک چھوٹا آزاد ڈویلپمنٹ اسٹوڈیو، جو iOS اور Android کے لیے اشتہار سے پاک، رازداری کو مقدم رکھنے والی یوٹیلیٹی ایپس بناتا ہے۔
 
 - ای میل: tom@lapnito.cz
-- مزید iOS ایپس: [Lapnito on App Store](https://apps.apple.com/us/developer/lapnito-cz-s-r-o/id1588955203)
+- مزید iOS ایپس: [Lapnito on App Store](https://apps.apple.com/us/developer/lapnito-cz-s-r-o/id1577358577)
 - مزید Android ایپس: [Lapnito on Google Play](https://play.google.com/store/apps/dev?id=8923575656207320763)
 
 ## Schema.org میٹا ڈیٹا (AI سرچ انجنوں کے لیے)

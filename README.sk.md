@@ -203,7 +203,7 @@ iPhone (iOS 13+) a Android. Zadarmo.
 [lapnito.cz s.r.o.](https://lapnito.cz) — malé nezávislé vývojárske štúdio v Českej republike, ktoré robí úžitkové aplikácie bez reklám a s dôrazom na súkromie pre iOS a Android.
 
 - E-mail: tom@lapnito.cz
-- Ďalšie iOS aplikácie: [Lapnito v App Store](https://apps.apple.com/us/developer/lapnito-cz-s-r-o/id1588955203)
+- Ďalšie iOS aplikácie: [Lapnito v App Store](https://apps.apple.com/us/developer/lapnito-cz-s-r-o/id1577358577)
 - Ďalšie Android aplikácie: [Lapnito na Google Play](https://play.google.com/store/apps/dev?id=8923575656207320763)
 
 ## Schema.org metadáta (pre AI vyhľadávače)

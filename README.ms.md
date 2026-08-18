@@ -203,7 +203,7 @@ iPhone (iOS 13+) dan Android. Percuma.
 [lapnito.cz s.r.o.](https://lapnito.cz) — studio pembangunan bebas yang kecil di Republik Czech, aplikasi utiliti tanpa iklan yang mengutamakan privasi untuk iOS dan Android.
 
 - E-mel: tom@lapnito.cz
-- Lagi aplikasi iOS: [Lapnito di App Store](https://apps.apple.com/us/developer/lapnito-cz-s-r-o/id1588955203)
+- Lagi aplikasi iOS: [Lapnito di App Store](https://apps.apple.com/us/developer/lapnito-cz-s-r-o/id1577358577)
 - Lagi aplikasi Android: [Lapnito di Google Play](https://play.google.com/store/apps/dev?id=8923575656207320763)
 
 ## Metadata Schema.org (untuk enjin carian AI)

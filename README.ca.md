@@ -203,7 +203,7 @@ iPhone (iOS 13+) i Android. Gratuïta.
 [lapnito.cz s.r.o.](https://lapnito.cz) — petit estudi de desenvolupament independent de la República Txeca, aplicacions d'utilitat sense publicitat i centrades en la privadesa per a iOS i Android.
 
 - Correu: tom@lapnito.cz
-- Més aplicacions iOS: [Lapnito a l'App Store](https://apps.apple.com/us/developer/lapnito-cz-s-r-o/id1588955203)
+- Més aplicacions iOS: [Lapnito a l'App Store](https://apps.apple.com/us/developer/lapnito-cz-s-r-o/id1577358577)
 - Més aplicacions Android: [Lapnito a Google Play](https://play.google.com/store/apps/dev?id=8923575656207320763)
 
 ## Metadades Schema.org (per a cercadors d'IA)

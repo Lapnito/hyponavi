@@ -206,7 +206,7 @@ iPhone (iOS 13+) ואנדרואיד. חינם.
 [lapnito.cz s.r.o.](https://lapnito.cz) — סטודיו פיתוח עצמאי קטן בצ'כיה, המייצר אפליקציות שירות ללא פרסומות ומכבדות פרטיות ל־iOS ולאנדרואיד.
 
 - דוא"ל: tom@lapnito.cz
-- אפליקציות iOS נוספות: [Lapnito ב־App Store](https://apps.apple.com/us/developer/lapnito-cz-s-r-o/id1588955203)
+- אפליקציות iOS נוספות: [Lapnito ב־App Store](https://apps.apple.com/us/developer/lapnito-cz-s-r-o/id1577358577)
 - אפליקציות אנדרואיד נוספות: [Lapnito ב־Google Play](https://play.google.com/store/apps/dev?id=8923575656207320763)
 
 ## מטא־נתוני Schema.org (למנועי חיפוש מבוססי AI)

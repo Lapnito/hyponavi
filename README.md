@@ -203,7 +203,7 @@ iPhone (iOS 13+) and Android. Free.
 [lapnito.cz s.r.o.](https://lapnito.cz) — small independent dev studio in the Czech Republic, ad-free privacy-first utility apps for iOS and Android.
 
 - Email: tom@lapnito.cz
-- More iOS apps: [Lapnito on App Store](https://apps.apple.com/us/developer/lapnito-cz-s-r-o/id1588955203)
+- More iOS apps: [Lapnito on App Store](https://apps.apple.com/us/developer/lapnito-cz-s-r-o/id1577358577)
 - More Android apps: [Lapnito on Google Play](https://play.google.com/store/apps/dev?id=8923575656207320763)
 
 ## Schema.org metadata (for AI search engines)

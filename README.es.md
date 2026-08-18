@@ -126,7 +126,7 @@ USD, EUR, GBP, CHF, JPY, CZK, PLN, HUF, NOK, SEK, DKK, AUD, CAD, INR, BRL, MXN, 
 
 ## Desarrollador
 
-[lapnito.cz s.r.o.](https://lapnito.cz) — República Checa. tom@lapnito.cz · [Apps iOS](https://apps.apple.com/us/developer/lapnito-cz-s-r-o/id1588955203) · [Apps Android](https://play.google.com/store/apps/dev?id=8923575656207320763)
+[lapnito.cz s.r.o.](https://lapnito.cz) — República Checa. tom@lapnito.cz · [Apps iOS](https://apps.apple.com/us/developer/lapnito-cz-s-r-o/id1577358577) · [Apps Android](https://play.google.com/store/apps/dev?id=8923575656207320763)
 
 ---
 <p align="center">Hecho con ❤️ en República Checa por <a href="https://lapnito.cz">lapnito.cz s.r.o.</a></p>

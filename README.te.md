@@ -203,7 +203,7 @@ iPhone (iOS 13+) మరియు Android. ఉచితం.
 [lapnito.cz s.r.o.](https://lapnito.cz) — చెక్ రిపబ్లిక్‌లోని చిన్న స్వతంత్ర డెవలప్‌మెంట్ స్టూడియో; iOS మరియు Android కోసం ప్రకటనలు లేని, గోప్యతకు ప్రాధాన్యమిచ్చే యుటిలిటీ యాప్‌లు.
 
 - ఇమెయిల్: tom@lapnito.cz
-- మరిన్ని iOS యాప్‌లు: [App Storeలో Lapnito](https://apps.apple.com/us/developer/lapnito-cz-s-r-o/id1588955203)
+- మరిన్ని iOS యాప్‌లు: [App Storeలో Lapnito](https://apps.apple.com/us/developer/lapnito-cz-s-r-o/id1577358577)
 - మరిన్ని Android యాప్‌లు: [Google Playలో Lapnito](https://play.google.com/store/apps/dev?id=8923575656207320763)
 
 ## Schema.org మెటాడేటా (AI సెర్చ్ ఇంజిన్‌ల కోసం)

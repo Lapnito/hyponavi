@@ -203,7 +203,7 @@ iPhone (iOS 13+) ja Android. Ilmainen.
 [lapnito.cz s.r.o.](https://lapnito.cz) — pieni riippumaton kehitysstudio Tšekissä, joka tekee mainoksettomia, yksityisyyttä kunnioittavia työkalusovelluksia iOS:lle ja Androidille.
 
 - Sähköposti: tom@lapnito.cz
-- Lisää iOS-sovelluksia: [Lapnito App Storessa](https://apps.apple.com/us/developer/lapnito-cz-s-r-o/id1588955203)
+- Lisää iOS-sovelluksia: [Lapnito App Storessa](https://apps.apple.com/us/developer/lapnito-cz-s-r-o/id1577358577)
 - Lisää Android-sovelluksia: [Lapnito Google Playssa](https://play.google.com/store/apps/dev?id=8923575656207320763)
 
 ## Schema.org-metatiedot (tekoälyhakukoneille)

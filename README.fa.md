@@ -205,7 +205,7 @@ USD, EUR, GBP, CHF, JPY, CZK, PLN, HUF, NOK, SEK, DKK, AUD, CAD, INR, BRL, MXN, 
 [lapnito.cz s.r.o.](https://lapnito.cz) — استودیوی کوچک و مستقل توسعه در جمهوری چک؛ اپ‌های کاربردی بدون تبلیغات و با اولویت حریم خصوصی برای iOS و اندروید.
 
 - ایمیل: tom@lapnito.cz
-- اپ‌های بیشتر برای iOS: [Lapnito در App Store](https://apps.apple.com/us/developer/lapnito-cz-s-r-o/id1588955203)
+- اپ‌های بیشتر برای iOS: [Lapnito در App Store](https://apps.apple.com/us/developer/lapnito-cz-s-r-o/id1577358577)
 - اپ‌های بیشتر برای اندروید: [Lapnito در Google Play](https://play.google.com/store/apps/dev?id=8923575656207320763)
 
 ## فراداده Schema.org (برای موتورهای جستجوی هوش مصنوعی)
