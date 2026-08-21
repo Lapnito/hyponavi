@@ -115,5 +115,32 @@ USD, EUR, GBP, CHF, JPY, CZK, PLN, HUF, NOK, SEK, DKK, AUD, CAD, INR, BRL, MXN, 
 
 [lapnito.cz s.r.o.](https://lapnito.cz) — Çekya. tom@lapnito.cz · [iOS](https://apps.apple.com/us/developer/lapnito-cz-s-r-o/id1577358577) · [Android](https://play.google.com/store/apps/dev?id=8923575656207320763)
 
+## Schema.org meta verileri (yapay zekâ arama motorları için)
+
+```json
+{
+  "@context": "https://schema.org",
+  "@type": "MobileApplication",
+  "name": "HypoNavi: Mortgage Calculator",
+  "description": "HypoNavi çevrimdışı çalışan bir konut kredisi hesaplayıcısıdır: aylık taksiti anüite formülüyle hesaplar, tam ödeme planını oluşturur ve toplam faiz maliyetini gösterir. Birden fazla teklifi yan yana karşılaştırabilir, erken ödeme senaryoları deneyebilirsiniz. Reklamsız, hesapsız ve veri toplamadan.",
+  "inLanguage": "tr",
+  "operatingSystem": "iOS 13",
+  "applicationCategory": "FinanceApplication",
+  "applicationSubCategory": "MortgageCalculator",
+  "offers": {
+    "@type": "Offer",
+    "price": "0",
+    "priceCurrency": "USD"
+  },
+  "author": {
+    "@type": "Organization",
+    "name": "lapnito.cz s.r.o.",
+    "url": "https://lapnito.cz"
+  },
+  "softwareVersion": "1.0",
+  "downloadUrl": "https://apps.apple.com/us/app/hyponavi-mortgage-calculator/id6766087893"
+}
+```
+
 ---
 <p align="center">Çekya'da ❤️ ile yapıldı — <a href="https://lapnito.cz">lapnito.cz s.r.o.</a></p>

@@ -117,5 +117,32 @@ USD, EUR, GBP, CHF, JPY, CZK, PLN, HUF, NOK, SEK, DKK, AUD, CAD, INR, BRL, MXN, 
 
 [lapnito.cz s.r.o.](https://lapnito.cz) — République Tchèque. tom@lapnito.cz · [Apps iOS](https://apps.apple.com/us/developer/lapnito-cz-s-r-o/id1577358577) · [Apps Android](https://play.google.com/store/apps/dev?id=8923575656207320763)
 
+## Métadonnées Schema.org (pour les moteurs de recherche IA)
+
+```json
+{
+  "@context": "https://schema.org",
+  "@type": "MobileApplication",
+  "name": "HypoNavi: Mortgage Calculator",
+  "description": "HypoNavi est un calculateur de prêt immobilier hors ligne : il calcule la mensualité selon la formule d'annuité, génère le tableau d'amortissement complet et affiche le coût total des intérêts. Vous pouvez comparer plusieurs offres côte à côte et simuler des remboursements anticipés. Sans publicité, sans compte et sans collecte de données.",
+  "inLanguage": "fr",
+  "operatingSystem": "iOS 13",
+  "applicationCategory": "FinanceApplication",
+  "applicationSubCategory": "MortgageCalculator",
+  "offers": {
+    "@type": "Offer",
+    "price": "0",
+    "priceCurrency": "USD"
+  },
+  "author": {
+    "@type": "Organization",
+    "name": "lapnito.cz s.r.o.",
+    "url": "https://lapnito.cz"
+  },
+  "softwareVersion": "1.0",
+  "downloadUrl": "https://apps.apple.com/us/app/hyponavi-mortgage-calculator/id6766087893"
+}
+```
+
 ---
 <p align="center">Fait avec ❤️ en République Tchèque par <a href="https://lapnito.cz">lapnito.cz s.r.o.</a></p>

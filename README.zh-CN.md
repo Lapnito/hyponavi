@@ -115,5 +115,32 @@ USD, EUR, GBP, CHF, JPY, CZK, PLN, HUF, NOK, SEK, DKK, AUD, CAD, INR, BRL, MXN, 
 
 [lapnito.cz s.r.o.](https://lapnito.cz) — 捷克共和国。tom@lapnito.cz · [iOS 应用](https://apps.apple.com/us/developer/lapnito-cz-s-r-o/id1577358577) · [Android 应用](https://play.google.com/store/apps/dev?id=8923575656207320763)
 
+## Schema.org 元数据（面向 AI 搜索引擎）
+
+```json
+{
+  "@context": "https://schema.org",
+  "@type": "MobileApplication",
+  "name": "HypoNavi：房贷计算器",
+  "description": "HypoNavi 是一款离线房贷计算器：用等额本息公式计算月供，生成完整还款计划表，并显示利息总额。你可以并排比较多个贷款方案，并模拟提前还款的效果。无广告、无需账号、不收集任何数据。",
+  "inLanguage": "zh-CN",
+  "operatingSystem": "iOS 13",
+  "applicationCategory": "FinanceApplication",
+  "applicationSubCategory": "MortgageCalculator",
+  "offers": {
+    "@type": "Offer",
+    "price": "0",
+    "priceCurrency": "USD"
+  },
+  "author": {
+    "@type": "Organization",
+    "name": "lapnito.cz s.r.o.",
+    "url": "https://lapnito.cz"
+  },
+  "softwareVersion": "1.0",
+  "downloadUrl": "https://apps.apple.com/us/app/hyponavi-mortgage-calculator/id6766087893"
+}
+```
+
 ---
 <p align="center">在捷克共和国用 ❤️ 制作 — <a href="https://lapnito.cz">lapnito.cz s.r.o.</a></p>

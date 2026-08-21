@@ -115,5 +115,32 @@ USD, EUR, GBP, CHF, JPY, CZK, PLN, HUF, NOK, SEK, DKK, AUD, CAD, INR, BRL, MXN, 
 
 [lapnito.cz s.r.o.](https://lapnito.cz) — チェコ共和国。tom@lapnito.cz · [iOS](https://apps.apple.com/us/developer/lapnito-cz-s-r-o/id1577358577) · [Android](https://play.google.com/store/apps/dev?id=8923575656207320763)
 
+## Schema.org メタデータ（AI検索エンジン向け）
+
+```json
+{
+  "@context": "https://schema.org",
+  "@type": "MobileApplication",
+  "name": "HypoNavi（住宅ローン計算）",
+  "description": "HypoNavi は完全オフラインの住宅ローン計算アプリです。元利均等（アニュイティ）方式で毎月の返済額を算出し、返済予定表をすべて生成して、利息総額を表示します。複数の条件を並べて比較したり、繰り上げ返済をシミュレーションしたりできます。広告なし、アカウント不要、データ収集なし。",
+  "inLanguage": "ja",
+  "operatingSystem": "iOS 13",
+  "applicationCategory": "FinanceApplication",
+  "applicationSubCategory": "MortgageCalculator",
+  "offers": {
+    "@type": "Offer",
+    "price": "0",
+    "priceCurrency": "USD"
+  },
+  "author": {
+    "@type": "Organization",
+    "name": "lapnito.cz s.r.o.",
+    "url": "https://lapnito.cz"
+  },
+  "softwareVersion": "1.0",
+  "downloadUrl": "https://apps.apple.com/us/app/hyponavi-mortgage-calculator/id6766087893"
+}
+```
+
 ---
 <p align="center">チェコ共和国で ❤️ を込めて制作 — <a href="https://lapnito.cz">lapnito.cz s.r.o.</a></p>

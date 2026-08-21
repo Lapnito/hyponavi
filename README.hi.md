@@ -114,5 +114,32 @@ USD, EUR, GBP, CHF, JPY, CZK, PLN, HUF, NOK, SEK, DKK, AUD, CAD, INR, BRL, MXN, 
 
 [lapnito.cz s.r.o.](https://lapnito.cz) — चेक गणराज्य। tom@lapnito.cz · [iOS](https://apps.apple.com/us/developer/lapnito-cz-s-r-o/id1577358577) · [Android](https://play.google.com/store/apps/dev?id=8923575656207320763)
 
+## Schema.org मेटाडेटा (AI सर्च इंजनों के लिए)
+
+```json
+{
+  "@context": "https://schema.org",
+  "@type": "MobileApplication",
+  "name": "HypoNavi: होम लोन कैलकुलेटर",
+  "description": "HypoNavi एक ऑफ़लाइन होम लोन कैलकुलेटर है: यह वार्षिकी सूत्र से मासिक किस्त (EMI) निकालता है, पूरा परिशोधन शेड्यूल बनाता है और कुल ब्याज लागत दिखाता है। आप कई ऑफ़र साथ-साथ तुलना कर सकते हैं और अतिरिक्त भुगतान का असर देख सकते हैं। कोई विज्ञापन नहीं, कोई खाता नहीं, कोई डेटा संग्रह नहीं।",
+  "inLanguage": "hi",
+  "operatingSystem": "iOS 13",
+  "applicationCategory": "FinanceApplication",
+  "applicationSubCategory": "MortgageCalculator",
+  "offers": {
+    "@type": "Offer",
+    "price": "0",
+    "priceCurrency": "USD"
+  },
+  "author": {
+    "@type": "Organization",
+    "name": "lapnito.cz s.r.o.",
+    "url": "https://lapnito.cz"
+  },
+  "softwareVersion": "1.0",
+  "downloadUrl": "https://apps.apple.com/us/app/hyponavi-mortgage-calculator/id6766087893"
+}
+```
+
 ---
 <p align="center">चेक गणराज्य में ❤️ से बना — <a href="https://lapnito.cz">lapnito.cz s.r.o.</a></p>

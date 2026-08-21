@@ -115,6 +115,33 @@ USD, EUR, GBP, CHF, JPY, CZK, PLN, HUF, NOK, SEK, DKK, AUD, CAD, INR, BRL, MXN, 
 
 [lapnito.cz s.r.o.](https://lapnito.cz) — تشيكيا. tom@lapnito.cz · [iOS](https://apps.apple.com/us/developer/lapnito-cz-s-r-o/id1577358577) · [Android](https://play.google.com/store/apps/dev?id=8923575656207320763)
 
+## بيانات Schema.org الوصفية (لمحركات البحث بالذكاء الاصطناعي)
+
+```json
+{
+  "@context": "https://schema.org",
+  "@type": "MobileApplication",
+  "name": "HypoNavi: حاسبة القروض العقارية",
+  "description": "HypoNavi حاسبة قروض عقارية تعمل دون إنترنت: تحسب القسط الشهري بصيغة الأقساط الثابتة، وتنشئ جدول السداد الكامل، وتُظهر إجمالي الفوائد. يمكنك مقارنة عدة عروض جنبًا إلى جنب ومحاكاة السداد المبكر. بلا إعلانات وبلا حساب وبلا جمع بيانات.",
+  "inLanguage": "ar",
+  "operatingSystem": "iOS 13",
+  "applicationCategory": "FinanceApplication",
+  "applicationSubCategory": "MortgageCalculator",
+  "offers": {
+    "@type": "Offer",
+    "price": "0",
+    "priceCurrency": "USD"
+  },
+  "author": {
+    "@type": "Organization",
+    "name": "lapnito.cz s.r.o.",
+    "url": "https://lapnito.cz"
+  },
+  "softwareVersion": "1.0",
+  "downloadUrl": "https://apps.apple.com/us/app/hyponavi-mortgage-calculator/id6766087893"
+}
+```
+
 ---
 <p align="center">صُنع بـ ❤️ في تشيكيا — <a href="https://lapnito.cz">lapnito.cz s.r.o.</a></p>
 </div>

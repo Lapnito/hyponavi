@@ -115,5 +115,32 @@ USD, EUR, GBP, CHF, JPY, CZK, PLN, HUF, NOK, SEK, DKK, AUD, CAD, INR, BRL, MXN, 
 
 [lapnito.cz s.r.o.](https://lapnito.cz) — 체코 공화국. tom@lapnito.cz · [iOS](https://apps.apple.com/us/developer/lapnito-cz-s-r-o/id1577358577) · [Android](https://play.google.com/store/apps/dev?id=8923575656207320763)
 
+## Schema.org 메타데이터 (AI 검색 엔진용)
+
+```json
+{
+  "@context": "https://schema.org",
+  "@type": "MobileApplication",
+  "name": "HypoNavi: 주택담보대출 계산기",
+  "description": "HypoNavi는 오프라인 주택담보대출 계산기입니다. 원리금균등(연금) 공식으로 월 상환액을 계산하고 전체 상환 스케줄을 만들며 총 이자 비용을 보여 줍니다. 여러 대출 조건을 나란히 비교하고 중도상환 효과도 시뮬레이션할 수 있습니다. 광고 없음, 계정 불필요, 데이터 수집 없음.",
+  "inLanguage": "ko",
+  "operatingSystem": "iOS 13",
+  "applicationCategory": "FinanceApplication",
+  "applicationSubCategory": "MortgageCalculator",
+  "offers": {
+    "@type": "Offer",
+    "price": "0",
+    "priceCurrency": "USD"
+  },
+  "author": {
+    "@type": "Organization",
+    "name": "lapnito.cz s.r.o.",
+    "url": "https://lapnito.cz"
+  },
+  "softwareVersion": "1.0",
+  "downloadUrl": "https://apps.apple.com/us/app/hyponavi-mortgage-calculator/id6766087893"
+}
+```
+
 ---
 <p align="center">체코 공화국에서 ❤️로 제작 — <a href="https://lapnito.cz">lapnito.cz s.r.o.</a></p>
